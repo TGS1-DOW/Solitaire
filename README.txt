@@ -1,0 +1,1 @@
+README.md-LICENSE.md includes info about creation. and licenses the game to "Daboiz Co." Even if "Unauthorized Software" Is detected it's SAFE SOFTWARE! DABOIZ ENTERTAINMENT Co. will NEVER send a virus/Trojan/Malware to your computer.

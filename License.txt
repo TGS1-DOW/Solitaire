@@ -1,0 +1,18 @@
+Creator - DABOIZ Co.
+Game engine - Gamemaker
+Licence - DABOIZ Co.
+TESTED SOFTWARE!!!
+
+-------DEVELOPMENT INFO-----------
+
+Stage 1. blank game
+Stage 2. Sprite creation
+Stage 3. Script Creation
+stage 4. room creation
+Stage 5. Layer creation
+Stage 6. Antimation Creation
+Stage 7. Uploading Sprites to game
+Stage 8. Finishing Touches
+Stage 9. Package
+----------------------------------
+NO CODED INFO OBTAINS IP OR NAME
